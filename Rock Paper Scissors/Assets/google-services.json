@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1045881440974",
+    "firebase_url": "https://rock-paper-scissors-e081d.firebaseio.com",
+    "project_id": "rock-paper-scissors-e081d",
+    "storage_bucket": "rock-paper-scissors-e081d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045881440974:android:5d7e4e6389942c5d0b9e9f",
+        "android_client_info": {
+          "package_name": "com.PsinaGames.SUEFA"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1045881440974-hcafgntmkti3iej1kfe65fuica78jlv5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpt_SCdVM607UpI3Bg_4P6I9yU4EOaeiE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1045881440974-hcafgntmkti3iej1kfe65fuica78jlv5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
